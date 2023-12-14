@@ -33,8 +33,13 @@ npm start
 ```
     "Hit this URL For Menu Import From CSV to JSON :- http://localhost:3000/menu/import-menu-csv-convert-josn"
     "Hit this URL For Multiple Image Upload :- http://localhost:3000/image/multiple-upload"
+```
 
+[or], Below deployed - version
 
+```
+ "Hit this URL For Menu Import From CSV to JSON :- https://node-api-vgim.onrender.com/menu/import-menu-csv-convert-josn"
+    "Hit this URL For Multiple Image Upload :- https://node-api-vgim.onrender.com/image/multiple-upload"
 ```
 
  ### <b>~ S@hil </b>
