@@ -30,16 +30,15 @@ npm start
 <br>
 
 ## API endpoints:
-```
-    "Hit this URL For Menu Import From CSV to JSON :- http://localhost:3000/menu/import-menu-csv-convert-josn"
-    "Hit this URL For Multiple Image Upload :- http://localhost:3000/image/multiple-upload"
-```
 
-[or], Below deployed - version
+1. For Menu Import From CSV to JSON
+```
+http://localhost:3000/menu/import-menu-csv-convert-josn
+```
+2. For Multiple Image Upload :-
 
 ```
- "Hit this URL For Menu Import From CSV to JSON :- https://node-api-vgim.onrender.com/menu/import-menu-csv-convert-josn"
-    "Hit this URL For Multiple Image Upload :- https://node-api-vgim.onrender.com/image/multiple-upload"
+   http://localhost:3000/image/multiple-upload
 ```
 
  ### <b>~ S@hil </b>
