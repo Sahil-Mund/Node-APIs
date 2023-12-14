@@ -1,5 +1,5 @@
 
-<h1> Automations - API</h1>
+<h1> Node - API</h1>
 
 ## Description :-
 Creating Node.JS APIs that allows us to perform some automation works in day-to-day activity.
