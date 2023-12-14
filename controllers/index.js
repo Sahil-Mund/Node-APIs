@@ -1,5 +1,5 @@
 module.exports = {
-    menuController: require("./menu_Controller"),
-    imageController: require("./Image_Controller")
+    menuController: require("./menu_controller"),
+    imageController: require("./Image_controller")
   };
   
