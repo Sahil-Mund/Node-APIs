@@ -7,7 +7,7 @@ module.exports.applyAggregation = (data) => {
     // group by category & idx and push all the items with same categories to its items array
     if (!acc[key]) {
       acc[key] = {
-        Category: current.Category,
+        categoryName: current.Category,
         idx: categoryIdx,
         side: (categoryIdx) % 2 !== 0 ? 'left' : 'right',
         items: [],
