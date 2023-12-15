@@ -26,7 +26,7 @@ module.exports.menuImportToJson = async (req, res) => {
 
     res.json({
       message: `CSV to JSON conversion successfull !!`,
-      responses: formattedArray,
+       responses:formattedArray,
     });
 
     // Delete the uploaded file after processing
